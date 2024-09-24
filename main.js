@@ -19,4 +19,6 @@ function valores(jul,ia,a){
     return jul+ia+a/3
 }
 
-console.log(valores(343,64,3))
+parseInt(prompt('colocar os 3 numeros ae'))
+    
+    valores(343,64,3))
