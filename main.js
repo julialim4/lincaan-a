@@ -6,11 +6,8 @@ console.log(soma(2,3));
 function areaquadrada(lado){
  return lado**2;
 }
-let areatrapezio=function( ){
-return
+let areatrapezio=function(B,b,h){
+return (B+b)*h/2;
 }
-console.log( )
 
-
-
-}
+console.log( areatrapezio(2,4,5)
