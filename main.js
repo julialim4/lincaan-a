@@ -10,4 +10,4 @@ let areatrapezio=function(B,b,h){
 return (B+b)*h/2;
 }
 
-console.log( areatrapezio(2,4,5)
+console.log( areatrapezio(2,4,5))
