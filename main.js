@@ -15,8 +15,8 @@ return (B+b)*h/2;
 
 console.log(areatrapezio(2,4,5))
 
-function valores(jul,ia){
-    return jul+ia 
+function valores(jul,ia,a){
+    return jul+ia+a/3
 }
 
-console.log(valores(jul,ia))
+console.log(valores(343,64,3))
